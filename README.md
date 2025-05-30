@@ -1,12 +1,12 @@
-#App Crash Chart
+# App Crash Chart
 
-##Install Dependencies
+## Install Dependencies
 
 ```npm install```
 
-##Run the Application 
+## Run the Application 
 
 ```npm run dev```
 
-###The app will be available at:
+### The app will be available at:
 ```http://localhost:5173```
